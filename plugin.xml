@@ -2,9 +2,9 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="org.apache.cordova.core.cameraZJ"
-    version="9.2.2">
-    <name>Camera</name>
+    id="org.apache.cordova.core.cameraTest"
+    version="9.9.2">
+    <name>CameraTest</name>
     <description>Cordova Camera Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,camera</keywords>
